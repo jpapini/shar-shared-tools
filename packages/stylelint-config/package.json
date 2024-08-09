@@ -33,25 +33,25 @@
         "reset": "pnpm run clean; rimraf node_modules"
     },
     "dependencies": {
-        "stylelint-config-clean-order": "6.0.0",
+        "stylelint-config-clean-order": "6.1.0",
         "stylelint-config-standard": "36.0.1",
         "stylelint-config-tailwindcss": "0.0.7"
     },
     "devDependencies": {
-        "npm-run-all2": "6.2.0",
-        "stylelint": "16.6.1"
+        "npm-run-all2": "6.2.2",
+        "stylelint": "16.8.1"
     },
     "peerDependencies": {
         "stylelint": "16"
     },
-    "packageManager": "pnpm@9.4.0",
+    "packageManager": "pnpm@9.7.0",
     "engines": {
         "node": "20",
         "pnpm": "9"
     },
     "volta": {
-        "node": "20.15.0",
-        "pnpm": "9.4.0"
+        "node": "20.16.0",
+        "pnpm": "9.7.0"
     },
     "publishConfig": {
         "access": "public"

@@ -36,20 +36,20 @@
         "@commitlint/config-conventional": "19.2.2"
     },
     "devDependencies": {
-        "@commitlint/cli": "19.3.0",
-        "npm-run-all2": "6.2.0"
+        "@commitlint/cli": "19.4.0",
+        "npm-run-all2": "6.2.2"
     },
     "peerDependencies": {
         "@commitlint/cli": "19"
     },
-    "packageManager": "pnpm@9.4.0",
+    "packageManager": "pnpm@9.7.0",
     "engines": {
         "node": "20",
         "pnpm": "9"
     },
     "volta": {
-        "node": "20.15.0",
-        "pnpm": "9.4.0"
+        "node": "20.16.0",
+        "pnpm": "9.7.0"
     },
     "publishConfig": {
         "access": "public"

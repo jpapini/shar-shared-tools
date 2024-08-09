@@ -41,16 +41,16 @@
     },
     "devDependencies": {
         "@jpapini/vite-config": "workspace:*",
-        "npm-run-all2": "6.2.0"
+        "npm-run-all2": "6.2.2"
     },
-    "packageManager": "pnpm@9.4.0",
+    "packageManager": "pnpm@9.7.0",
     "engines": {
         "node": "20",
         "pnpm": "9"
     },
     "volta": {
-        "node": "20.15.0",
-        "pnpm": "9.4.0"
+        "node": "20.16.0",
+        "pnpm": "9.7.0"
     },
     "publishConfig": {
         "access": "public"
