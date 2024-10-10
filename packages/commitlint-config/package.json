@@ -33,23 +33,23 @@
         "reset": "pnpm run clean; rimraf node_modules"
     },
     "dependencies": {
-        "@commitlint/config-conventional": "19.4.1"
+        "@commitlint/config-conventional": "19.5.0"
     },
     "devDependencies": {
-        "@commitlint/cli": "19.4.1",
-        "npm-run-all2": "6.2.2"
+        "@commitlint/cli": "19.5.0",
+        "npm-run-all2": "6.2.3"
     },
     "peerDependencies": {
         "@commitlint/cli": "19"
     },
-    "packageManager": "pnpm@9.9.0",
+    "packageManager": "pnpm@9.12.1",
     "engines": {
         "node": "20",
         "pnpm": "9"
     },
     "volta": {
-        "node": "20.17.0",
-        "pnpm": "9.9.0"
+        "node": "20.18.0",
+        "pnpm": "9.12.1"
     },
     "publishConfig": {
         "access": "public"
