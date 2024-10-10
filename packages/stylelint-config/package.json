@@ -38,20 +38,20 @@
         "stylelint-config-tailwindcss": "0.0.7"
     },
     "devDependencies": {
-        "npm-run-all2": "6.2.2",
+        "npm-run-all2": "6.2.3",
         "stylelint": "16.9.0"
     },
     "peerDependencies": {
         "stylelint": "16"
     },
-    "packageManager": "pnpm@9.9.0",
+    "packageManager": "pnpm@9.12.1",
     "engines": {
         "node": "20",
         "pnpm": "9"
     },
     "volta": {
-        "node": "20.17.0",
-        "pnpm": "9.9.0"
+        "node": "20.18.0",
+        "pnpm": "9.12.1"
     },
     "publishConfig": {
         "access": "public"
